@@ -23,11 +23,11 @@
 			<td>
 				<p>
 					<a href="https://www.linkedin.com/in/a-alaverdov/" target="_blank">
-						<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/%2Fin%2F-nsmaniotto-%230077B5?&style=for-the-badge&logoColor=white"/>
+						<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/ALAVERDOV-%230077B5?&style=for-the-badge&logoColor=white"/>
 					</a>
 					<br>
 					<a href="mailto:antoine.alaverdov81@gmail.com" target="_blank">
-						<img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/smaniotto.nathan-@gmail.com-D14836?&style=for-the-badge&logoColor=white"/>
+						<img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/antoine.alaverdov81-@gmail.com-D14836?&style=for-the-badge&logoColor=white"/>
 				</p>
 			</td>
 		</tr>
