@@ -23,7 +23,7 @@
 			<td>
 				<p>
 					<a href="https://www.linkedin.com/in/a-alaverdov/" target="_blank">
-						<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/%2F-FALAVERDOV-%230077B5?&style=for-the-badge&logoColor=white"/>
+						<img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/%2F-ALAVERDOV-%230077B5?&style=for-the-badge&logoColor=white"/>
 					</a>
 					<br>
 					<a href="mailto:antoine.alaverdov81@gmail.com" target="_blank">
