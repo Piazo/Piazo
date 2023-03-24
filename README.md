@@ -15,7 +15,7 @@
 				<p>
 					👨‍🎓 Enrolled in a Master of Engineering in Computer Science at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
 					<br/>
-					🎯 My goal is to specialize in <b>Machine Learning and Software Engineering</b>
+					🎯 My goal is to specialize in <b>Machine Learning</b>
 					<br/>
 					🌍 French, a <i>stack</i> of English and a <i>bit</i> of German
 				</p>
