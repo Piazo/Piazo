@@ -13,11 +13,11 @@
 		<tr>
 			<td>
 				<p>
-					👨‍🎓 Enrolled in a Master of Engineering in Computer Science at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
+					👨‍🎓 Graduated with a Master of Engineering in Computer Science at <a href="http://www.insa-toulouse.fr/" target="_blank">INSA Toulouse</a>, France
 					<br/>
-					🎯 My goal is to specialize in <b>Machine Learning</b>
+					👨‍💼 Research Engineer at ENAC, Toulouse.
 					<br/>
-					🌍 French, a <i>stack</i> of English and a <i>bit</i> of German
+					🖥️ Working on AI techniques.
 				</p>
 			</td>
 			<td>
@@ -37,7 +37,9 @@
 
 <div width="100%" align="center">
 	<h3>👨‍💻 Main programming languages</h3>
-  <img src="https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge" />
+  	<img src="https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/C%20-%251100.svg?&style=for-the-badge&logo=c&logoColor=white" />
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-8A2BE2" />
+
 </div>
